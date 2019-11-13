@@ -255,10 +255,10 @@ section
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
 }
-.header.scrolled
+/*.header.scrolled
 {
 	top: -40px;
-}
+}*/
 
 /*********************************
 3.1 Top Bar
@@ -810,7 +810,7 @@ section
 .blog
 {
 	width: 100%;
-	background: #FFFFFF;
+	background: #d7dbe0;
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
@@ -864,6 +864,7 @@ section
 	padding-right: 30px;
 	padding-top: 23px;
 	padding-bottom: 23px;
+	background-color: #f6f6f7;
 }
 .blog_post_title a
 {

@@ -78,6 +78,7 @@ p
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
+	text-align: justify;
 }
 p a
 {
@@ -260,10 +261,10 @@ section
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
 }
-.header.scrolled
+/*.header.scrolled
 {
 	top: -0px;
-}
+}*/
 
 /*********************************
 3.1 Top Bar
