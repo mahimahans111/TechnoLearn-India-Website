@@ -256,11 +256,11 @@ section
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
 }
-.header.scrolled
+/*.header.scrolled
 {
 	top: -40px;
 }
-
+*/
 /*********************************
 3.1 Top Bar
 *********************************/
@@ -379,7 +379,7 @@ section
 .logo_text
 {
 	font-family: 'Roboto Slab', serif;
-	font-size: 36px;
+	font-size: 25px;
 	font-weight: 700;
 	line-height: 0.75;
 	color: #384158;
@@ -822,10 +822,11 @@ section
 .blog_title
 {
 	font-family: 'Roboto Slab', serif;
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: 700;
 	line-height: 1.2;
 	color: #384158;
+	text-decoration: underline;
 }
 .blog_meta
 {
@@ -1613,7 +1614,7 @@ section
 .footer_logo_text
 {
 	font-family: 'Roboto Slab', serif;
-	font-size: 36px;
+	font-size: 33px;
 	font-weight: 700;
 	line-height: 0.75;
 	color: #FFFFFF;
